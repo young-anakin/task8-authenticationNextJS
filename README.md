@@ -48,7 +48,7 @@ To get this project running on your local machine, follow these steps:
    git clone https://github.com/young-anakin/task8-authenticationNextJS.git
 ![Screenshot (874)](https://github.com/user-attachments/assets/c4aa192f-21c8-472d-b6cd-faee4b6566bb)
 ![Screenshot (873)](https://github.com/user-attachments/assets/5a597803-a9eb-4180-b83f-562a9b8572f5)
-![Screenshot (872)](https://github.com/user-attachments/assets/8c3f85bb-7581-431b-b1f4-806aa4ad9364)
+![Screenshot (875)](https://github.com/user-attachments/assets/57c06a31-7bb1-4af5-85df-a320919f141c)
 ![Screenshot (871)](https://github.com/user-attachments/assets/cddf7737-1eec-4828-b1d1-c7936521ec2c)
 ![Screenshot (870)](https://github.com/user-attachments/assets/cd13594e-9e0f-4d8b-8edc-de9a8758eb6e)
 ![Screenshot (869)](https://github.com/user-attachments/assets/9e67c8dd-4052-4c14-87e2-e2d010a9b46e)
